@@ -1,0 +1,11 @@
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\bin\Debug\net8.0\ComputerStore.Domain.deps.json
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\bin\Debug\net8.0\ComputerStore.Domain.dll
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\bin\Debug\net8.0\ComputerStore.Domain.pdb
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\obj\Debug\net8.0\ComputerStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\obj\Debug\net8.0\ComputerStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\obj\Debug\net8.0\ComputerStore.Domain.AssemblyInfo.cs
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\obj\Debug\net8.0\ComputerStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\obj\Debug\net8.0\ComputerStore.Domain.dll
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\obj\Debug\net8.0\refint\ComputerStore.Domain.dll
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\obj\Debug\net8.0\ComputerStore.Domain.pdb
+C:\Users\Sanja\Desktop\ComputerStore\ComputerStore.Domain\obj\Debug\net8.0\ref\ComputerStore.Domain.dll
